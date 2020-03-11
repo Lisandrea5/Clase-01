@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Monoton|Roboto+Slab&display=swap');
 html, body { 
   margin: 0; 
-  padding: 0;}
+  padding: 0;
   font-family: 'Monoton', regular;
 }
 canvas { display: block;}
