@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Monoton|Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand&display=swap');
 html, body { 
   margin: 0; 
   padding: 0;
-  font-family: 'Monoton', regular;
+  font-family: 'Gochi Hand', cursive;
 }
 canvas { display: block;}
